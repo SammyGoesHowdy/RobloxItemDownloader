@@ -8,7 +8,7 @@
 * Request Module (in CMD, type `pip install requests`)
 
 # How to run
-* in Command Prompt: `python LegacyVerseJsonFill.py`
+* in Command Prompt: `python RobloxItemDownloader.py`
 
 # NOTES
 * Due to changes in ROBLOX APIs, a .ROBLOSECURITY cookie is **required** to use this tool. This is only stored on **your** computer, you can read through the script to prove this.
